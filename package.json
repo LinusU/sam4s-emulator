@@ -1,0 +1,9 @@
+{
+  "name": "sam4s-emulator",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/sam4s-emulator",
+  "dependencies": {
+    "canvas": "^2.5.0"
+  }
+}
